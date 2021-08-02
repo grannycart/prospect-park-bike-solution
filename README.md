@@ -9,6 +9,7 @@
 	* Main file. In Inkscape svg format.
 
 ## License:
+* I give this to Prospect Park Alliance with no strings attached. Merely the hope that it can help address a perrenial aggravation of moving through NYC's big parks.
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE)
