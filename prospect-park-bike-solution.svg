@@ -329,9 +329,15 @@
     <rect
        x="165.46358"
        y="776.26459"
-       width="920.69768"
-       height="395.75276"
+       width="458.03521"
+       height="878.01402"
        id="rect101439-1-3-7-2" />
+    <rect
+       x="165.46358"
+       y="776.26459"
+       width="462.00619"
+       height="860.75108"
+       id="rect101439-1-3-7-2-5" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -3304,21 +3310,18 @@ fDAjICMFeHhyuuPVYcIp7kVm9AjMjXBJ+aLz3SiBUv8/fjPGdB4v6O0AAAAASUVORK5CYII=
          transform="matrix(0,-0.2251549,0.66063363,0,294.88616,226.28967)"
          id="text12230"
          style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12232);display:inline;fill:#edeaf0;fill-opacity:1;stroke:#edeaf0;stroke-opacity:1"><tspan
-           x="514.38477"
-           y="83.289062"
-           id="tspan174167"><tspan
-             style="font-weight:bold;font-stretch:semi-condensed;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Bold Semi-Condensed'"
-             id="tspan174165">ONLY</tspan></tspan></text>
+           sodipodi:role="line"
+           id="tspan12234"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:64px;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Bold Semi-Condensed';fill:#edeaf0;fill-opacity:1;stroke:#edeaf0;stroke-opacity:1">ONLY</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0,-0.26446341,0.45330351,0,297.48339,291.35359)"
          id="text12230-7"
          style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12232-8);display:inline;fill:#edeaf0;fill-opacity:1;stroke:#edeaf0;stroke-opacity:1"><tspan
            x="514.38477"
-           y="64.414091"
-           id="tspan174171"><tspan
-             style="font-weight:bold;font-stretch:semi-condensed;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Bold Semi-Condensed'"
-             id="tspan174169">SLOW</tspan></tspan></text>
+           y="83.289062"
+           id="tspan41936"
+           style="font-weight:bold;font-stretch:semi-condensed;font-size:42.6667px;font-family:'Nimbus Sans Narrow';-inkscape-font-specification:'Nimbus Sans Narrow Bold Semi-Condensed';fill:#edeaf0;fill-opacity:1;stroke:#edeaf0;stroke-opacity:1">SLOW</tspan></text>
       <path
          style="display:inline;fill:#edeaf0;fill-opacity:1;stroke:#edeaf0;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutS)"
          d="M 278.39311,94.784795 H 254.89669"
@@ -13357,147 +13360,79 @@ VXfMx6m/MjmdnAf/AIqJVxVClbVCFa1d155EtF8sHPvfC3IL35taDcpAAAAAAAAgAYAMAYD/APP/
        style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect86171-3);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="62.841797"
          y="57.417969"
-         id="tspan174175"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF';-inkscape-font-specification:'Gillius ADF Bold'"
-           id="tspan174173">How to Fix </tspan></tspan><tspan
-         x="62.841797"
-         y="117.88672"
-         id="tspan174179"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF';-inkscape-font-specification:'Gillius ADF Bold'"
-           id="tspan174177">Bicycle-</tspan></tspan><tspan
-         x="62.841797"
-         y="178.35547"
-         id="tspan174183"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF';-inkscape-font-specification:'Gillius ADF Bold'"
-           id="tspan174181">Pedestrian </tspan></tspan><tspan
-         x="62.841797"
-         y="238.82422"
-         id="tspan174187"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF';-inkscape-font-specification:'Gillius ADF Bold'"
-           id="tspan174185">Interactions in </tspan></tspan><tspan
-         x="62.841797"
-         y="299.29297"
-         id="tspan174191"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF';-inkscape-font-specification:'Gillius ADF Bold'"
-           id="tspan174189">Prospect Park</tspan></tspan></text>
+         id="tspan95078"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gillius ADF';-inkscape-font-specification:'Gillius ADF Bold'">How to Fix Bicycle-Pedestrian Interactions in Prospect Park</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-1)"
-       d="m 95.97094,131.28258 c 0,0 9.68353,-7.37958 21.56547,-2.40657 11.88193,4.97302 14.13915,13.38967 14.13915,13.38967"
+       d="m 95.97094,156.68265 c 0,0 9.68353,-7.37958 21.56547,-2.40657 11.88193,4.97302 14.13915,13.38967 14.13915,13.38967"
        id="path99607"
        sodipodi:nodetypes="czc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-1-3)"
-       d="m 99.288894,201.26894 c 0,0 19.307806,17.10305 49.194476,4.89108 29.88666,-12.21198 43.25287,-35.58408 43.25287,-35.58408"
+       d="m 95.704317,212.95466 c 0,0 38.034203,10.49043 67.920873,-1.72154 29.88666,-12.21198 34.86162,-44.25842 34.86162,-44.25842"
        id="path99607-4"
        sodipodi:nodetypes="czc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-1-3-4)"
-       d="m 97.851306,243.26438 c 0,0 21.884724,15.03789 62.879754,6.11987 40.99503,-8.91802 72.20198,-40.09 72.20198,-40.09"
+       d="m 95.49735,278.5972 c 0,0 40.79856,0.73469 77.08409,-13.28118 36.28553,-14.01587 60.3516,-56.02177 60.3516,-56.02177"
        id="path99607-4-6"
        sodipodi:nodetypes="czc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.705556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-1-8)"
-       d="m 95.999871,127.21794 c 0,0 36.100899,-19.35849 81.901559,-17.97512 45.80065,1.38338 58.36689,15.24419 58.36689,15.24419"
+       d="m 94.198014,150.74158 c 0,0 42.190566,-42.12246 87.991226,-40.73909 45.80065,1.38338 54.07908,14.48452 54.07908,14.48452"
        id="path99607-0"
        sodipodi:nodetypes="czc" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,21.670477,-71.579728)"
+       transform="matrix(0.26458333,0,0,0.26458333,21.670477,-55.704727)"
        id="text101437"
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect101439-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="165.46289"
          y="797.49805"
-         id="tspan174195"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174193">At-grade </tspan></tspan><tspan
-         x="165.46289"
-         y="827.73242"
-         id="tspan174199"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174197">cobblestones </tspan></tspan><tspan
-         x="165.46289"
-         y="857.9668"
-         id="tspan174203"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174201">installed at </tspan></tspan><tspan
-         x="165.46289"
-         y="888.20117"
-         id="tspan174207"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174205">pedestrian </tspan></tspan><tspan
-         x="165.46289"
-         y="918.43555"
-         id="tspan174211"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174209">crossings</tspan></tspan></text>
+         id="tspan105639"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'">At-grade cobblestones installed at pedestrian crossings</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,21.460927,-18.61529)"
+       transform="matrix(0.26458333,0,0,0.26458333,21.460927,-2.7402896)"
        id="text101437-1"
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect101439-1-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="165.46289"
          y="797.49805"
-         id="tspan174215"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174213">Smooth </tspan></tspan><tspan
-         x="165.46289"
-         y="827.73242"
-         id="tspan174219"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174217">asphalt in </tspan></tspan><tspan
-         x="165.46289"
-         y="857.9668"
-         id="tspan174223"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174221">bicycle lane</tspan></tspan></text>
+         id="tspan139623"
+         style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'">Smooth asphalt in bicycle lane</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,21.587927,10.575562)"
+       transform="matrix(0.26458333,0,0,0.26458333,21.587927,47.617231)"
        id="text101437-1-5"
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect101439-1-3-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="165.46289"
          y="797.49805"
-         id="tspan174227"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174225">Municipal </tspan></tspan><tspan
-         x="165.46289"
-         y="827.73242"
-         id="tspan174231"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174229">vehicle traffic </tspan></tspan><tspan
-         x="165.46289"
-         y="857.9668"
-         id="tspan174235"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174233">unimpeded by </tspan></tspan><tspan
-         x="165.46289"
-         y="888.20117"
-         id="tspan174239"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174237">cobbles</tspan></tspan></text>
+         id="tspan140933"
+         style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'">Municipal vehicle traffic unimpeded by cobbles</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-29.848573,129.98886)"
+       transform="matrix(0.26458333,0,0,0.26458333,-29.778723,119.40552)"
        id="text101437-1-5-1"
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect101439-1-3-7-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="165.46289"
          y="797.49805"
-         id="tspan174245"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2 Bold'"
-           id="tspan174241">Detailed description</tspan><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174243">
-</tspan></tspan><tspan
-         x="165.46289"
-         y="827.73242"
-         id="tspan174249"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174247">Every pedestrian in both Central and Prospect Park have exeperienced the occasionally-</tspan></tspan><tspan
-         x="165.46289"
-         y="857.9668"
-         id="tspan174253"><tspan
-           style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"
-           id="tspan174251">harrowing adventure of trying to cross the park drive </tspan></tspan></text>
+         id="tspan158220"
+         style="font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2'"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2 Bold'"
+           id="tspan172317">Advantages</tspan><tspan
+           style="font-size:24px"
+           id="tspan185271">
++ Pedestrians can move to the edge of the cobbles for a far narrower gap to cross.
++ Cyclists dramatically slow to either maneuver through the middle bicycle lane or navigate
+   the cobbles at a walking speed — with the most impact on the fastest, high-pressure 
+   tire road bicycles..
++ Doesn't cure every cyclist-pedestrian encounter, but strongly nudges cyclists and 
+   pedestrians toward personable negotiated interactions.
++ With no pedestrians waiting to cross, cyclists can maintain speed.
++ Municipal vehicles can pass over cobblestones in their lane without slowing.
++ No aggressive policing of behavior, new signage, or signals required.
++ Cyclists can practice cobblestone riding, as featured in the premiere road bicycling 
+   race Paris–Roubaix.</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-29.823173,-110.49854)"
@@ -13505,30 +13440,9 @@ VXfMx6m/MjmdnAf/AIqJVxVClbVCFa1d155EtF8sHPvfC3IL35taDcpAAAAAAAAgAYAMAYD/APP/
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect101439-1-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="165.46289"
          y="797.49805"
-         id="tspan174257"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2 Bold'"
-           id="tspan174255">An urban design solution that </tspan></tspan><tspan
-         x="165.46289"
-         y="827.73242"
-         id="tspan174261"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2 Bold'"
-           id="tspan174259">does not depend on additional </tspan></tspan><tspan
-         x="165.46289"
-         y="857.9668"
-         id="tspan174265"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2 Bold'"
-           id="tspan174263">signals, technology, or </tspan></tspan><tspan
-         x="165.46289"
-         y="888.20117"
-         id="tspan174269"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2 Bold'"
-           id="tspan174267">authoritarian rule enforcement.
-</tspan></tspan><tspan
-         x="165.46289"
-         y="918.43555"
-         id="tspan174273"><tspan
-           style="font-weight:bold;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2 Bold'"
-           id="tspan174271">by Mark Torrey</tspan></tspan></text>
+         id="tspan144038"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Gillius ADF No2';-inkscape-font-specification:'Gillius ADF No2 Bold'">An urban design solution that does not depend on additional signals, technology, or authoritarian rule enforcement.
+by Mark Torrey</tspan></text>
   </g>
   <style
      type="text/css"
