@@ -10,7 +10,7 @@
 * Github pages files located in docs/ subdirectory.
 
 ## License:
-* I give this to Prospect Park Alliance with no strings attached. Merely the hope that it can help address a perrenial aggravation of moving through NYC's big parks.
+* No strings attached (except credit). Just a hope that someone can find a way to keep the bicycles moving in the parks without pissing off the pedestrians!
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 	* CC BY-NC-SA 4.0
 	* See: [LICENSE](./LICENSE)
